@@ -14,6 +14,7 @@ Requirements
 VPN Requirements
 ===
 * Need to create a text file named vpnlist.txt that contains a list of all .ovpn files supported by your provider. Each line should be the path to a .ovpn file.
+* .ovpn files must contain auth-user-pass option
 
 TOR Requirements
 ===
