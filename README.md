@@ -7,12 +7,13 @@ To run just: ./start_automated_voting.sh
 
 Requirements
 ===
-* openvpn (and provider) and/or TOR
+* openvpn 
 * phantomjs
+* tor
 
 VPN Requirements
 ===
-* Need to create a text file called vpnlist.txt that contains a list of all .ovpn files supported by your provider. Each line should be the path to a .ovpn file.
+* Need to create a text file named vpnlist.txt that contains a list of all .ovpn files supported by your provider. Each line should be the path to a .ovpn file.
 
 TOR Requirements
 ===
