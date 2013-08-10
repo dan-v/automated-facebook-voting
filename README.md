@@ -20,6 +20,6 @@ TOR Requirements
 
 Required File Edits
 ===
-* phantomjs_vote.js - update <actual_content_url> and <id_to_vote_for>
+* phantomjs_vote.js - update actual_content_url and id_to_vote_for
 * start_automated_voting.sh - update HOME_IP
 * change_tor_identity.py - update TOR control port and password
