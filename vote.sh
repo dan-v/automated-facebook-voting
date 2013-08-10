@@ -50,7 +50,7 @@ while [ 1 ]; do
                   killall -9 openvpn
   
                   echo "Changing TOR identity"
-                  python changeidentity.py
+                  python change_tor_identity.py
                   sleep 10
   
                   echo "Running script on TOR"
