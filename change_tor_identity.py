@@ -1,3 +1,5 @@
+# Taken from: http://stackoverflow.com/questions/9887505/changing-tor-identity-inside-python-script
+
 import socket,sys
 
 try:
